@@ -6,3 +6,8 @@
 - Contest solutions
 - https://youtu.be/kQuCOFzWoa0?si=UxuY8XS6WoC7Ri8t
 - https://youtu.be/RA_SpxP2t54?si=TXcUeAktRKtg5ana
+
+### Fenwick Tree
+- Here's the code for different variants of Fenwick tree 
+- https://acm.khpnets.info/wiki/Варианты_дерева_Фенвика
+
