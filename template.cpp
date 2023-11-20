@@ -1,4 +1,4 @@
-#ifndef ONPC
+#ifdef ONPC
     #define _GLIBCXX_DEBUG
 #endif
 
